@@ -3,7 +3,7 @@ Sharp MZ 700 stuff
 
 Various artefacts relating to the Sharp MZ-700
 
-Last updated 20th June 2021
+Last updated 8th August 2021
 
 1. GNU BLAT 2000 (.wav and .mzf) - Sharp BASIC 1.0A game written for the Lymphoma Action gaming challenge, April 2021.
 
@@ -12,6 +12,8 @@ Last updated 20th June 2021
 3. primes-rf.F90 - Prime number generator, suitable for use with the BBG RealFortran v1 compiler. Note - this is NOT a Fortan 90 dialect!
 
 4. Sharp MZ-700 User Notes 1.pdf - Scan of the first edition of the SharpSoft USer Notes for the MZ-700.
+
+5. Drinking game v2 (mzf) - Sharp BASIC 1.0A program to solve the puzzle using a monte carlo simulation, August 2021.
 
 Sharp MZ-700 emulators will work directly with the .mzf files stored here.
 
