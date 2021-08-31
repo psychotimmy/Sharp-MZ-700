@@ -13,7 +13,10 @@ Last updated 8th August 2021
 
 4. Sharp MZ-700 User Notes 1.pdf - Scan of the first edition of the SharpSoft USer Notes for the MZ-700.
 
-5. Drinking game v2 (mzf) - Sharp BASIC 1.0A program to solve the puzzle using a monte carlo simulation, August 2021.
+5. Drinking game v2 (.mzf) - Sharp BASIC 1.0A program to solve the puzzle using a monte carlo simulation, August 2021.
+
+6. Moonlander game v4 (.wav and .mzf) - Sharp BASIC 1.0A program implementing a moonlander game, inspired by the Usborne Books 'Spacegames' text-only version and one 
+   implemented by @electron_greg (twitter) for the Commodore PET. This implementation shares no common code with either, other than Newtonian mechanics formulae!
 
 Sharp MZ-700 emulators will work directly with the .mzf files stored here.
 
