@@ -3,7 +3,7 @@ Sharp MZ 700 stuff
 
 Various artefacts relating to the Sharp MZ-700
 
-Last updated 31st August 2021
+Last updated 28th December 2021
 
 1. GNU BLAT 2000 (.wav and .mzf) - Sharp BASIC 1.0A game written for the Lymphoma Action gaming challenge, April 2021.
 
