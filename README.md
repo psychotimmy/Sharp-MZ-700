@@ -18,6 +18,10 @@ Last updated 31st August 2021
 6. Moonlander game v4 (.wav and .mzf) - Sharp BASIC 1.0A program implementing a moonlander game, inspired by the Usborne Books 'Spacegames' text-only version and one 
    implemented by @electron_greg (twitter) for the Commodore PET. This implementation shares no common code with either, other than Newtonian mechanics formulae!
 
+7. Advent of code 2021 (v6), day 25 (.mzf) - the sea cucumber problem. Sharp BASIC 1.0A program to solve the puzzle using two 2D character arrays. On a 10x10 grid, this 
+   takes around 7 seconds per generation (around 50% less time with the S-BASIC Compiler). It occurs to me that there's potentially a much more efficient algorithm 
+   that uses one array and simply considers the spaces.  
+
 Sharp MZ-700 emulators will work directly with the .mzf files stored here.
 
 If you are fortunate enough to have access to the real thing with a tape deck, mzf files need to be converted into an audio file (.wav) first. MZFStudio - https://www.nachthacker.de/DownloadBereich.html - is excellent for this conversion (and will also convert .wav files into .mzf format).
