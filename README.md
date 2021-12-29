@@ -3,7 +3,7 @@ Sharp MZ 700 stuff
 
 Various artefacts relating to the Sharp MZ-700
 
-Last updated 28th December 2021
+Last updated 29th December 2021
 
 1. GNU BLAT 2000 (.wav and .mzf) - Sharp BASIC 1.0A game written for the Lymphoma Action gaming challenge, April 2021.
 
@@ -20,7 +20,7 @@ Last updated 28th December 2021
 
 7. Advent of code 2021 (v6), day 25 (.mzf) - the sea cucumber problem. Sharp BASIC 1.0A program to solve the puzzle using two 2D character arrays. On a 10x10 grid, this 
    takes around 7 seconds per generation (around 50% less time with the S-BASIC Compiler). It occurs to me that there's potentially a much more efficient algorithm 
-   that uses one array and simply considers the spaces.  
+   that uses one array and simply considers the spaces. Yep - v7 (.mzf) implements this method and saves around a second per generation on a 10x10 grid.  
 
 Sharp MZ-700 emulators will work directly with the .mzf files stored here.
 
