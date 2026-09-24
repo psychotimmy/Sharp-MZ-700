@@ -3,7 +3,7 @@ Sharp MZ 700 stuff
 
 Various artefacts relating to the Sharp MZ-700
 
-Last updated 23rd January 2022
+Last updated 24th September 2026
 
 1. GNU BLAT 2000 (.wav and .mzf) - Sharp BASIC 1.0A game written for the Lymphoma Action gaming challenge, April 2021.
 
@@ -23,7 +23,9 @@ Last updated 23rd January 2022
    that uses one array and simply considers the spaces. Yep - v7 (.mzf) implements this method and saves around a second per generation on a 10x10 grid. 
 
 8. Sunrise v2 (.mzf) - Sharp BASIC 1.0A program to calculate sunrise and sunset times for any day at any position on the globe. Based on the code published in 
-   Sky & Telescope, August 1994. (There is also a version of this with minimal changes for the RC2014 - https://github.com/psychotimmy/RC2014). 
+   Sky & Telescope, August 1994. (There is also a version of this with minimal changes for the RC2014 - https://github.com/psychotimmy/RC2014).
+
+9. The Valley 12M7 and 12C7 - Monochrome and colour versions of The Valley (ported from the MZ-80K version).
 
 Sharp MZ-700 emulators will work directly with the .mzf files stored here.
 
